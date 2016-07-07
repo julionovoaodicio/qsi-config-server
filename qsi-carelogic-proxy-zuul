@@ -1,0 +1,2 @@
+zuul.routes.qsi-carelogic-order-domain-services.path=/qsi-carelogic-order-domain-services/**
+zuul.routes.qsi-carelogic-order-domain-services.url=http://localhost:8081
